@@ -1,6 +1,6 @@
-##Notes
+###Notes
 
-#Despliega la app a un clúster de Minikube Kubernetes
+##Despliega la app a un clúster de Minikube Kubernetes
 
 #Editar archivo hosts (para cambiar host dns editar tambien flask-nginx-ingress.yaml)
 echo "$(minikube ip) flask-app.local" | sudo tee -a /etc/hosts
