@@ -15,3 +15,5 @@ kubectl apply -f .
 curl http://flask-app.local
 
 ##Proyecto: nginx-flask-mysql convertido y readecuado de docker-compose a Kubernetes
+
+#framework: https://github.com/docker/awesome-compose/tree/master/nginx-flask-mysql
